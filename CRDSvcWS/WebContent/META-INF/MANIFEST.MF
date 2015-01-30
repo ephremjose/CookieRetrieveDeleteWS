@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: queries.jar 
+ Utilities.jar 
+ Schemas.jar 
+ valueObjects.jar
+
